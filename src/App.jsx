@@ -8,6 +8,7 @@ function App() {
       <ul>
         <li>Components</li>
         <li>JSX</li>
+        <li>state</li>
         <li>Load data</li>
 
         <hr />
