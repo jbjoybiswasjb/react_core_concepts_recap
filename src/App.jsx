@@ -10,6 +10,8 @@ function App() {
         <li>JSX</li>
         <li>state</li>
         <li>Load data</li>
+        <li>Props</li>
+        <li>Event Handler</li>
 
         <hr />
 
