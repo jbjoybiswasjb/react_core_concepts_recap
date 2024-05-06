@@ -1,9 +1,18 @@
 import './App.css'
+import Posts from './Posts'
 
 function App() {
   return (
     <>
-      <h1>Vite + React</h1>
+      <h3>React core concepts recap</h3>
+      <ul>
+        <li>Components</li>
+        <li>JSX</li>
+
+        <hr />
+
+        <Posts></Posts>
+      </ul>
     </>
   )
 }
